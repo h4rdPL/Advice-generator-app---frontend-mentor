@@ -27,9 +27,9 @@ body {
   height: 330px;
   text-align: center;
 }
-@media (min-width: 500px) {
+@media (min-width: 768px) {
   .advice {
-    width: 60%;
+    width: 50%;
   }
 }
 @media (min-width: 1400px) {
@@ -38,6 +38,7 @@ body {
   }
 }
 .advice__header {
+  display: flex;
   text-transform: uppercase;
   font-size: 12px;
   color: hsl(150deg, 100%, 66%);
@@ -60,5 +61,5 @@ body {
   cursor: pointer;
 }
 .advice__image:hover {
-  box-shadow: -2px 9px 33px 13px hsl(150deg, 100%, 66%);
+  box-shadow: -3px 0px 19px -5px hsl(150deg, 100%, 66%);
 }/*# sourceMappingURL=style.css.map */
