@@ -1,0 +1,31 @@
+// variables 
+
+$mobile: 375px;
+$desktop: 1440px;
+
+$lightCyan: hsl(193, 38%, 86%);
+$neonGreen: hsl(150, 100%, 66%);
+
+$grayishBlue: hsl(217, 19%, 38%);
+$darkGrayishBlue:hsl(217, 19%, 24%);
+$darkBlue: hsl(218, 23%, 16%);
+
+// fonts
+
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@800&display=swap');
+$font: "Manrope", "sans-serif";
+
+* {
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+}
+
+body {
+    font-family: $font;
+    height: 100vh;
+    background-color: $darkBlue; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}   
