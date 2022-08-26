@@ -9,6 +9,7 @@ Technology stack
 
 * HTML
 * SCSS
+* JAVASCRIPT
 
 
 About
