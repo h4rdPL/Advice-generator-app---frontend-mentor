@@ -21,7 +21,7 @@ Installing
 ======
 
 ```
-1. Download or clone repo → gh repo clone h4rdpl/qr-code-frontend-mentor
+1. Download or clone repo → gh repo clone h4rdpl/Advice-generator-app---frontend-mentor
 ```
 
 ```
@@ -30,7 +30,7 @@ Installing
 
 Or
 ```
-Copy&Open live link: https://h4rdpl.github.io/qr-code-frontend-mentor/
+Copy&Open live link: https://h4rdpl.github.io/Advice-generator-app---frontend-mentor
 ```
 
 Design
